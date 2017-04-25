@@ -1,4 +1,7 @@
-# api documentation for  [ember-validations (v0.0.0)](https://github.com/stefanpenner/ember-cli)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-validations.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-validations) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-validations.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-validations)
+# npmdoc-ember-validations
+
+#### basic api documentation for  [ember-validations (v0.0.0)](https://github.com/stefanpenner/ember-cli)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-validations.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-validations) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-validations.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-validations)
+
 #### This README outlines the details of collaborating on this Ember addon.
 
 [![NPM](https://nodei.co/npm/ember-validations.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ember-validations)
@@ -75,7 +78,8 @@
         "start": "ember server",
         "test": "ember test"
     },
-    "version": "0.0.0"
+    "version": "0.0.0",
+    "bin": {}
 }
 ```
 
